@@ -1,0 +1,40 @@
+.main_container{
+    display: flex; 
+    flex-direction: column;   
+}
+
+
+.container{
+    display: flex;
+    flex-direction: row;
+    background-color: greenyellow;
+}
+
+
+.container2{
+    display: flex;
+    flex-direction: column;
+}
+
+.box_menu{
+    background-color: red;
+    width: 25em;
+    height: max-content;
+}
+
+.box_article{
+    margin-bottom: 2em;
+    background-color: rgb(93, 92, 165);
+}
+
+
+.box_footer{
+    height: max-content;
+    width: 100%;
+    background-color: rgb(203, 224, 154);
+
+}
+
+.fw_more{
+    font-weight: 600;
+}

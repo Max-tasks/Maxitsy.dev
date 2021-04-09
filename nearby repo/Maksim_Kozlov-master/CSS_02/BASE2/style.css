@@ -1,0 +1,22 @@
+.main{
+    font-weight:bold;
+    list-style: upper-roman;
+    width: 350px;
+}
+
+.second{
+    font-weight: normal;
+    list-style: lower-roman;
+}
+
+.fw_600{
+    font-weight: 600;
+}
+
+.cont{
+    background-color: black;
+    color: green;
+    width: 400px;
+    max-lines: 4;
+    overflow: auto;
+}

@@ -1,0 +1,26 @@
+.card{
+    float: left;
+    width: 80px;
+    height: 190px;
+    background-image: url(img/cards.png);
+}
+
+
+.card.card_1{
+    background-position-x: -144px;
+    background-position-y: -199px;
+
+}
+
+
+.card.card_2{
+    background-position-x: -433px;
+    background-position-y: -596px;
+
+}
+
+.card.card_3{
+    width: 140px;
+    background-position-x: -289px;
+    background-position-y: -1391px;
+}

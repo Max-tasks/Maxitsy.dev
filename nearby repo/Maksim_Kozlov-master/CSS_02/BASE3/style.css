@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.navigation{
+    float: left; 
+    width: 15em;
+    background-color: rgb(48, 144, 189);
+}
+
+.fw_700{
+    font-weight: 700;
+}
+
+.article{
+    float: left;
+    width: 100%; 
+    margin-bottom: 2em;
+    background: rgb(185, 216, 101);
+}
+
+.content{
+    float: left;
+    position: absolute;
+    left: 15em;      
+}
+
+.basement{
+    left: 0;
+    bottom: 0;
+    position: fixed;
+    clear: both;
+    background:rgb(172, 45, 45);
+    width: 100%;
+ }
+
+
+
